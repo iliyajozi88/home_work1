@@ -30,6 +30,7 @@ nav {
 .menu .left a .logo {
     height: 60px;
     width: auto;
+    display: block;
 }
 
 .menu .center {
